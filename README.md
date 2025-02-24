@@ -18,13 +18,7 @@
 *   **Expected Output:** Your GPA is __.
 *   **Hint:** Use a for loop to iterate through the arguments, and an if-else if-else statement to add the corresponding GPA value to a sum variable. Divide the sum by the number of arguments to get the average.
 
-## NumOdd.java
-*   **Problem:** Write a Java program that counts the number of odd numbers in the command line arguments provided by the user.
-*   **Command Line Arguments:** `<num1> <num2> <num3> ...`
-*   **Expected Output:** The number of odd numbers you provided is __.
-*   **Hint:** Use a for loop to iterate through the arguments and an if statement to check if each number is odd. Keep track of the total using a variable.
-
-## Challenge: Max.java
+## Max.java
 *   **Problem:** Write a Java program that finds the maximum number in the command line arguments provided by the user.
 *   **Command Line Arguments:** `<num1> <num2> <num3> ...`
 *   **Expected Output:** The maximum number you provided is __.
